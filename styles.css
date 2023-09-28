@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+
+}
+.nav-bar{
+    display: flex;
+    background: #e78f8e;
+
+}
+.nav{
+    padding: 0px 0px 0px 500px;
+}
+li{
+    display: inline-block;
+    padding-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: #3e6990;
+    font-family: cursive;
+}
+li button{
+    border: #aabd8c 2px solid;
+    border-radius: 5px;
+    background: #e9e3b4;
+}
